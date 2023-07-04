@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sharath6402
-- 👀 I’m interested in ...webdevelopment 
+- 👀 I’m interested in ...webdevelopment
+- app developer using flutter
 - 🌱 I’m currently learning ...B E
 - 💞️ I’m looking to collaborate on ...some nice project 
 - 📫 How to reach me ...contact through email"tssharath1@gmail.com"
